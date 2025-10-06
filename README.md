@@ -213,32 +213,7 @@ This project aims to implement a Government-Wide AI/ML platform to optimize traf
 ---
 
 
-
-Government_AI_ML_Case_Study_Mahesh/
-│
-├── README.md
-│
-├── docs/
-│   ├── PartA_Project_Planning/
-│   │   ├── Project_Plan.xlsx
-│   │   ├── Risk_Register.xlsx
-│   │   ├── Stakeholder_Management.docx
-│   │   └── Governance_and_Reporting_Templates.pptx
-│   │
-│   ├── PartB_Technical_Implementation/
-│   │   ├── Technical_Architecture_Document.docx
-│   │   └── AI_ML_Implementation_Strategy.docx
-│   │
-│   └── PartC_Risk_Management/
-│       ├── Executive_Scenarios_Presentation.pptx
-│       └── Dashboard_Template.pptx
-│
-├── templates/
-│   ├── KPI_Dashboard_Template.xlsx
-│   ├── Risk_Heatmap_Template.xlsx
-│   └── Gantt_Chart_Template.xlsx
-│
-└── Executive_Summary_Presentation.pptx
+<img width="511" height="692" alt="Project Overview" src="https://github.com/user-attachments/assets/71d0094d-86e0-422a-83fb-2fd2649e042c" />
 
 
 **Prepared by:** Mahesh H.
