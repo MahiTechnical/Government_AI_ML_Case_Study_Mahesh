@@ -213,6 +213,7 @@ This project aims to implement a Government-Wide AI/ML platform to optimize traf
 
 
 **Prepared by:** Mahesh H.
+
 **Role:** Scrum Master – Abu Dhabi Smart Traffic AI Initiative
 
 **Date:** October 2025
