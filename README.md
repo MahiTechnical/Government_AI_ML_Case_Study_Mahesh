@@ -5,13 +5,13 @@
 
 **Client: Abu Dhabi Government – Department of Transport & AI Council**
 
-** Project Role: Scrum Master / Solution Architect**
+**Project Role: Scrum Master**
 
-** Duration: 12 Months **
+**Duration: 12 Months**
 
-** Methodology: Agile–Scrum **
+**Methodology: Agile–Scrum**
 
-** Version: 1.0 **
+**Version: 1.0**
 
 
 ## **Part A: Project Planning and Strategy (40%)**
@@ -210,15 +210,9 @@ This project aims to implement a Government-Wide AI/ML platform to optimize traf
 
 ---
 
-## **Evaluation Criteria Alignment**
 
-* **Technical Depth:** Advanced ML models, scalable cloud-native architecture.
-* **Program Management Maturity:** Clear WBS, governance, and stakeholder handling.
-* **Problem-Solving:** Practical hybrid NLP and decoupled integration solutions.
-* **Communication:** Executive-ready, outcome-focused documentation.
-
----
 
 **Prepared by:** Mahesh H.
 **Role:** Scrum Master – Abu Dhabi Smart Traffic AI Initiative
+
 **Date:** October 2025
