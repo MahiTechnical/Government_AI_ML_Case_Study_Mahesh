@@ -1,4 +1,5 @@
 **AI Project Case Study:** Government-Wide AI/ML Implementation & Risk Management
+[We’ll use a Traffic Management AI System as the example use case (e.g., an AI platform to optimize traffic flow, predict congestion, and manage incidents across the city).]
 
 ## 1. Project Overview
 
