@@ -5,9 +5,12 @@
 
 **Client: Abu Dhabi Government – Department of Transport & AI Council**
 
-** Project Role: Scrum Master / Solution Architect **
+** Project Role: Scrum Master / Solution Architect**
+
 ** Duration: 12 Months **
+
 ** Methodology: Agile–Scrum **
+
 ** Version: 1.0 **
 
 
