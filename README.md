@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Government AI/ML Case Study – by Mahesh
 
 **Project:** AI-Powered Citizen Grievance Redressal System (GovGrievanceAI)
@@ -19,3 +20,6 @@ It is branded: *Government AI/ML Case Study – by Mahesh* and includes polished
 4. Customize the DOCX and PPTX files for your audience.
 
 *Generated on 2025-10-06T12:42:19.151432 UTC*
+=======
+# Government_AI_ML_Case_Study_Mahesh
+>>>>>>> 62560b1000ca1872b890df7d6f170dd6ecdc4ebd
