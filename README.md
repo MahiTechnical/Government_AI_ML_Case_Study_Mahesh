@@ -5,10 +5,15 @@
 # AI/ML-Based Smart Traffic Management System
 
 **Client:** Abu Dhabi Government – Department of Transport & AI Council
+
 **Project Title:** Government-Wide AI/ML Implementation for Smart Traffic Management
+
 **Scrum Master:** Mahesh H.
+
 **Duration:** 12 Months
+
 **Methodology:** Agile-Scrum Framework
+
 **Version:** 1.0
 
 ---
