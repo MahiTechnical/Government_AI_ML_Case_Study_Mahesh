@@ -3,11 +3,12 @@
 [ We’ll use a Traffic Management AI System as the example use case (e.g., an AI platform to optimize traffic flow, predict congestion, and manage incidents across the city). ]
 
 
-Client: Abu Dhabi Government – Department of Transport & AI Council
-Project Role: Scrum Master / Solution Architect
-Duration: 12 Months
-Methodology: Agile–Scrum
-Version: 1.0
+**Client: Abu Dhabi Government – Department of Transport & AI Council**
+
+** Project Role: Scrum Master / Solution Architect **
+** Duration: 12 Months **
+** Methodology: Agile–Scrum **
+** Version: 1.0 **
 
 
 ## **Part A: Project Planning and Strategy (40%)**
